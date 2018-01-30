@@ -1,0 +1,10 @@
+img {
+	float: right;
+}
+main {
+	font-family: "roboto", Helvetica;
+}
+.row {
+	column-count: 2;
+}
+
